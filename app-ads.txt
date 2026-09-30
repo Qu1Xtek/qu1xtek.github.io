@@ -1,0 +1,17 @@
+# CherryWare - app-ads.txt
+# Host at: https://qu1xtek.github.io/app-ads.txt
+
+# Google AdMob
+google.com, pub-7304545596990697, DIRECT, f08c47fec0942fa0
+
+# ironSource / Unity LevelPlay + Unity Ads
+# TODO: paste the lines from LevelPlay dashboard -> Setup -> app-ads.txt
+
+# Mintegral
+# TODO
+
+# Liftoff (Vungle)
+# TODO
+
+# Meta Audience Network
+# TODO
