@@ -14,4 +14,4 @@ google.com, pub-7304545596990697, DIRECT, f08c47fec0942fa0
 vungle.com, 6abd0625020a978505cf3e8a, DIRECT, c107d686becd2d77
 
 # Meta Audience Network
-# TODO
+facebook.com, 28710255275324815, DIRECT, c3e20eee3f780d68
